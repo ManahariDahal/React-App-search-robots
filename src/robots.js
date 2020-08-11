@@ -53,9 +53,9 @@ export const robots = [
 		email: 'droltaoverbrook@gmail.com',
 	},
 
-	{
-		id: 10,
-		name: 'Winifred Pomfrey',
-		email: 'winifredpomfrey@gmail.com'
-	},
+	// {
+	// 	id: 10,
+	// 	name: 'Winifred Pomfrey',
+	// 	email: 'winifredpomfrey@gmail.com'
+	// },
 ]
